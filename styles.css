@@ -144,7 +144,7 @@ h1 {
 }
 
 .item-meta {
-  font-size: 1.2rem;   /* Aumenta a fonte */
+  font-size: 18px;   /* Aumenta a fonte */
   font-weight: 600;    /* (opcional) deixa mais forte */
   margin-top: 4px;     /* (opcional) dá um respiro visual */
 }
