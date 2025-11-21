@@ -58,12 +58,13 @@ fetch("songs.json")
     }
 
     function filtrar() {
-      const q = (search.value || "").toLowerCase();
+      const q = String(search.value || "").toLowerCase();
+
       const filtrados = data.filter((item) => {
-        const musica = (item.musica || "").toLowerCase();
-        const cantor = (item.cantor || "").toLowerCase();
+        const musica = String(item.musica || "").toLowerCase();
+        const cantor = String(item.cantor || "").toLowerCase();
         const codigo = String(item.codigo || "").toLowerCase();
-        const inicio = (item.inicio_letra || "").toLowerCase();
+        const inicio = String(item.inicio_letra || "").toLowerCase();
 
         return (
           musica.includes(q) ||
@@ -72,11 +73,16 @@ fetch("songs.json")
           inicio.includes(q)
         );
       });
+
       render(filtrados);
     }
 
     search.addEventListener("input", filtrar);
     searchBtn.addEventListener("click", filtrar);
 
+    // mostra lista completa ao carregar
     render(data);
+  })
+  .catch((err) => {
+    console.error("Erro ao carregar songs.json:", err);
   });
