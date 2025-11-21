@@ -1,0 +1,78 @@
+
+body {
+  background: linear-gradient(135deg, #1e1e2f, #3c3c5c);
+  color: white;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 25px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 32px;
+  margin-bottom: 25px;
+}
+
+.search-box {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#search {
+  flex: 1;
+  padding: 16px;
+  border-radius: 14px;
+  border: none;
+  background: rgba(255,255,255,0.15);
+  color: white;
+  backdrop-filter: blur(8px);
+}
+
+#search-btn {
+  background: rgba(255,255,255,0.18);
+  border: none;
+  padding: 0 20px;
+  border-radius: 12px;
+  cursor: pointer;
+  font-size: 20px;
+  color: white;
+}
+
+.item {
+  background: rgba(255,255,255,0.12);
+  padding: 20px;
+  margin-bottom: 18px;
+  border-radius: 18px;
+  backdrop-filter: blur(10px);
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn-whatsapp {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 26px;
+}
+
+.copy-btn {
+  cursor: pointer;
+  font-size: 13px;
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+.copy-btn:hover {
+  opacity: 1;
+}
