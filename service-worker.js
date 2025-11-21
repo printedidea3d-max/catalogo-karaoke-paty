@@ -1,4 +1,4 @@
-const CACHE_NAME = "karaoke-paty-cache-v3";
+const CACHE_NAME = "karaoke-paty-v4";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
@@ -6,12 +6,12 @@ const FILES_TO_CACHE = [
   "./app.js",
   "./songs.json",
   "./manifest.json",
+  "./whatsapp.svg",
   "./icon-192.png",
-  "./icon-512.png",
-  "./whatsapp.svg"
+  "./icon-512.png"
 ];
 
-// Instala e salva arquivos essenciais no cache
+// Instala e faz pré-cache dos arquivos essenciais
 self.addEventListener("install", (event) => {
   self.skipWaiting();
   event.waitUntil(
@@ -19,7 +19,7 @@ self.addEventListener("install", (event) => {
   );
 });
 
-// Limpa caches antigos
+// Remove caches antigos
 self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((keys) =>
@@ -33,18 +33,24 @@ self.addEventListener("activate", (event) => {
   self.clients.claim();
 });
 
-// Estratégia: network-first com fallback para cache
+// Estratégia NETWORK-FIRST com fallback para cache
 self.addEventListener("fetch", (event) => {
+  const request = event.request;
+
+  // Sempre tentar a rede primeiro
   event.respondWith(
-    fetch(event.request)
+    fetch(request)
       .then((response) => {
-        // Atualiza o cache com a versão nova do arquivo
+        // Atualiza o cache com a versão mais recente
         const clone = response.clone();
         caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, clone);
+          cache.put(request, clone);
         });
         return response;
       })
-      .catch(() => caches.match(event.request))
+      .catch(() => {
+        // Se offline, tenta buscar no cache
+        return caches.match(request);
+      })
   );
 });
