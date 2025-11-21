@@ -67289,4 +67289,774 @@
     "musica":"SENZA UNA DONNA",
     "inicio_letra":"I change my world I wanna change..."
   }
+ {
+    "cantor": "Molejo",
+    "codigo": 17921,
+    "musica": "Assim Oh",
+    "inicio_letra": "Se Quiser Balancar Com O Molejao",
+
+  },
+  {
+    "cantor": "Nattan e Leo Foguete",
+    "codigo": 17929,
+    "musica": "Ultima Noite",
+    "inicio_letra": "Se Ce Quer Recaida Parabens Voce Vai Ter",
+
+  },
+  {
+    "cantor": "Pabllo Vittar e Gaby Amarantos",
+    "codigo": 17925,
+    "musica": "Nao Vou Te Deixar I Dont Want To Get Hurt",
+    "inicio_letra": "Quando Eu Te Conheci Minha Vida Transformou",
+
+  },
+  {
+    "cantor": "Parangole e E O Tchan",
+    "codigo": 17928,
+    "musica": "Sol Verao Relaxa",
+    "inicio_letra": "E Sol Verao Relaxa Esquece",
+
+  },
+  {
+    "cantor": "Planta E Raiz",
+    "codigo": 17927,
+    "musica": "Pra Poucos",
+    "inicio_letra": "Um Dia Eu Sonhei Com O Rei",
+
+  },
+  {
+    "cantor": "Yasmin Santos e Simone Mendes",
+    "codigo": 17926,
+    "musica": "Nem A Pau",
+    "inicio_letra": "Depois De Tantas Garrafas Abertas",
+
+  },
+  {
+    "cantor": "Gloria Groove e Thiaguinho",
+    "codigo": 17922,
+    "musica": "Chamada Proibida",
+    "inicio_letra": "Se Eu Te Der Um Sinal Pode Vir Pra Ca",
+
+  },
+  {
+    "cantor": "Hugo E Guilherme e Wesley Safadao",
+    "codigo": 17924,
+    "musica": "Mentirosa",
+    "inicio_letra": "Sumiu De Mim Ontem Na Festa",
+
+  },
+  {
+    "cantor": "Atitude 67",
+    "codigo": 17923,
+    "musica": "Imagina",
+    "inicio_letra": "Olha Que Loucura Irmao Eu Nem Conheco Ela",
+
+  },
+  {
+    "cantor": "Maiara E MaraIsa",
+    "codigo": 17930,
+    "musica": "Vai La",
+    "inicio_letra": "Nao E Possivel Ce Foi Mesmo",
+
+  },
+  {
+    "cantor": "Alesso e Anitta",
+    "codigo": 20704,
+    "musica": "Is That For Me",
+    "inicio_letra": "Ooh Come A Little Bit Closer",
+
+  },
+  {
+    "cantor": "Alicia Keys",
+    "codigo": 20709,
+    "musica": "Teenage Love Affair",
+    "inicio_letra": "Cant Wait To Get Home",
+
+  },
+  {
+    "cantor": "Corona",
+    "codigo": 20701,
+    "musica": "Baby Baby",
+    "inicio_letra": "Baby Baby Why Cant We Just Stay Together",
+
+  },
+  {
+    "cantor": "Daryl Hall And John Oates",
+    "codigo": 20707,
+    "musica": "Private Eyes",
+    "inicio_letra": "I See You You See Me",
+
+  },
+  {
+    "cantor": "Diana Ross",
+    "codigo": 20710,
+    "musica": "Thank You",
+    "inicio_letra": "Every Choice And Step I Make",
+
+  },
+  {
+    "cantor": "Elton John e Paul Young",
+    "codigo": 20703,
+    "musica": "I am Your Puppet",
+    "inicio_letra": "Pull The String And I will Wink At You",
+
+  },
+  {
+    "cantor": "Gregory Abbott",
+    "codigo": 20708,
+    "musica": "Shake You Down",
+    "inicio_letra": "Girl I have Been Watching You",
+
+  },
+  {
+    "cantor": "Jennifer Lopez",
+    "codigo": 20705,
+    "musica": "Love Dont Cost A Thing",
+    "inicio_letra": "Think You Gotta Keep Me Iced You Dont",
+
+  },
+  {
+    "cantor": "Shakira",
+    "codigo": 20706,
+    "musica": "She Wolf",
+    "inicio_letra": "SOS She is In Disguise",
+
+  },
+  {
+    "cantor": "Shawn Mendes",
+    "codigo": 20702,
+    "musica": "Heart Of Gold",
+    "inicio_letra": "Honestly It is Been A While Since I have",
+
+  },
+  {
+    "cantor": "E O Tchan",
+    "codigo": 17912,
+    "musica": "E O Tchan No Hawai",
+    "inicio_letra": "HulaeHula De La Tchan Quebra Quebra Daqui",
+
+  },
+  {
+    "cantor": "Guilherme E Benuto e Wesley Safadao",
+    "codigo": 17916,
+    "musica": "Milionario",
+    "inicio_letra": "Traz Uma Barrigudinha Gelada Ai Pra Mim",
+
+  },
+  {
+    "cantor": "Gustavo Mioto",
+    "codigo": 17915,
+    "musica": "Me Traiu Com Gente Feia",
+    "inicio_letra": "Ja Que E Pra Trair Tenha Bom Gosto",
+
+  },
+  {
+    "cantor": "Ivete Sangalo",
+    "codigo": 17914,
+    "musica": "Energia De Gostosa",
+    "inicio_letra": "Hoje E Dia De Jogar Sol Na Pele",
+
+  },
+  {
+    "cantor": "Jorge E Mateus e Henrique E Juliano",
+    "codigo": 17920,
+    "musica": "Xonei",
+    "inicio_letra": "Ai Ai Ai Meu Coracao Nao Nao Nao De Novo Nao",
+
+  },
+  {
+    "cantor": "Lauana Prado e Simone Mendes",
+    "codigo": 17919,
+    "musica": "Saudade Burra",
+    "inicio_letra": "Voce Terminou E Eu So Aceitei",
+
+  },
+  {
+    "cantor": "Pericles e Liniker",
+    "codigo": 17917,
+    "musica": "O Melhor Do Mundo",
+    "inicio_letra": "De Tudo O Que Eu Senti Com Voce Foi Diferente",
+
+  },
+  {
+    "cantor": "Thiaguinho e Billy Sp",
+    "codigo": 17913,
+    "musica": "Em Busca Da Minha Sorte",
+    "inicio_letra": "Hoje Eu Acordei Om O Pe Direito",
+
+  },
+  {
+    "cantor": "Vitor Kley",
+    "codigo": 17911,
+    "musica": "De Novo",
+    "inicio_letra": "Fui Brincando De Te Ver E Acabei Me Ferindo",
+
+  },
+  {
+    "cantor": "Xuxa",
+    "codigo": 17918,
+    "musica": "Planeta Xuxa",
+    "inicio_letra": "TchureTchuru Planeta Xuxa Uo Uo UoeUo",
+
+  },
+  {
+    "cantor": "Billie Eilish",
+    "codigo": 20691,
+    "musica": "Birds Of A Feather",
+    "inicio_letra": "I Want You To Stay until I am In The Grave",
+
+  },
+  {
+    "cantor": "Carpenters",
+    "codigo": 20697,
+    "musica": "Solitaire",
+    "inicio_letra": "There Was A Man A Lonely Man",
+
+  },
+  {
+    "cantor": "Elton John",
+    "codigo": 20698,
+    "musica": "Something About The Way You Look Tonight",
+    "inicio_letra": "There Was A Time I Was Everything",
+
+  },
+  {
+    "cantor": "Hozier",
+    "codigo": 20700,
+    "musica": "Too Sweet",
+    "inicio_letra": "It Cant Be Said I am An Early Bird",
+
+  },
+  {
+    "cantor": "Jon Secada",
+    "codigo": 20695,
+    "musica": "Mental Picture",
+    "inicio_letra": "I have Been Avoiding Things I am Missing",
+
+  },
+  {
+    "cantor": "Redbone",
+    "codigo": 20693,
+    "musica": "Come And Get Your Love",
+    "inicio_letra": "Hail Hail Whats The Matter With Your Head",
+
+  },
+  {
+    "cantor": "Smokey Robinson",
+    "codigo": 20694,
+    "musica": "Just To See Her",
+    "inicio_letra": "Just To See Her Just To Touch Her",
+
+  },
+  {
+    "cantor": "System Of A Down",
+    "codigo": 20692,
+    "musica": "Chop Suey",
+    "inicio_letra": "Wake Up Grab A Brush And Put A Little Make Up",
+
+  },
+  {
+    "cantor": "Talking Heads",
+    "codigo": 20699,
+    "musica": "The Lady Dont Mind",
+    "inicio_letra": "Last Time She Jumped Out The Window Well",
+
+  },
+  {
+    "cantor": "Tom Jones e Mousse T",
+    "codigo": 20696,
+    "musica": "Sexbomb",
+    "inicio_letra": "Spy On Me Baby Use Satellite",
+
+  },
+  {
+    "cantor": "murilo huff",
+    "codigo": 17941,
+    "musica": "anestesiado",
+    "inicio_letra": "a fumaca acaba com o meu pulmao",
+
+  },
+  {
+    "cantor": "ferrugem",
+    "codigo": 17942,
+    "musica": "apagar fundo raso",
+    "inicio_letra": "foi deixou de ser meu grande amor",
+
+  },
+  {
+    "cantor": "luan santana",
+    "codigo": 17943,
+    "musica": "carregador",
+    "inicio_letra": "meu celular ta quase morrendo",
+
+  },
+  {
+    "cantor": "leo foguete",
+    "codigo": 17944,
+    "musica": "copia proibida",
+    "inicio_letra": "eu so vejo qualidade onde tu ve defeitos",
+
+  },
+  {
+    "cantor": "diego e victor hugo",
+    "codigo": 17945,
+    "musica": "entregador de flor",
+    "inicio_letra": "vai la entregador de flor dar assistencia",
+
+  },
+  {
+    "cantor": "wesley safadao",
+    "codigo": 17946,
+    "musica": "ninguem sabe",
+    "inicio_letra": "eu disse para de ficar me encarando",
+
+  },
+  {
+    "cantor": "luiz melodia",
+    "codigo": 17947,
+    "musica": "o morro nao engana",
+    "inicio_letra": "subi o morro subi cansado",
+
+  },
+  {
+    "cantor": "paula lima",
+    "codigo": 17948,
+    "musica": "o universo que habita em mim",
+    "inicio_letra": "eu fiz um som novo novo novo",
+
+  },
+  {
+    "cantor": "hugo e guilherme",
+    "codigo": 17949,
+    "musica": "vazou na braquiara",
+    "inicio_letra": "existem dois tipos de pessoa numa ficada",
+
+  },
+  {
+    "cantor": "turma do pagode",
+    "codigo": 17950,
+    "musica": "vergonha no pagode",
+    "inicio_letra": "acho que eu ainda nao te superei",
+
+  },
+  {
+    "cantor": "jorge e mateus",
+    "codigo": 17931,
+    "musica": "cantada boba",
+    "inicio_letra": "falaram pra mim que eu sou seletivo demais",
+
+  },
+  {
+    "cantor": "roberta miranda",
+    "codigo": 17932,
+    "musica": "corajosa",
+    "inicio_letra": "as vezes segurar machuca mais que",
+
+  },
+  {
+    "cantor": "luan santana",
+    "codigo": 17933,
+    "musica": "e ai",
+    "inicio_letra": "fica tranquila eu vou deixar ce terminar",
+
+  },
+  {
+    "cantor": "roberta campos",
+    "codigo": 17934,
+    "musica": "gerbera",
+    "inicio_letra": "deixa o sol entrar em casa",
+
+  },
+  {
+    "cantor": "pixote",
+    "codigo": 17935,
+    "musica": "mania boba",
+    "inicio_letra": "so voce tem a chave do meu beijo",
+
+  },
+  {
+    "cantor": "bruno e marrone",
+    "codigo": 17936,
+    "musica": "nana",
+    "inicio_letra": "nanana nana depois que a gente terminou",
+
+  },
+  {
+    "cantor": "dona onete",
+    "codigo": 17937,
+    "musica": "no meio do pitiu",
+    "inicio_letra": "a garca namoradeira namora o malandro urubu",
+
+  },
+  {
+    "cantor": "emicida  zeca pagodinho  tspo",
+    "codigo": 17938,
+    "musica": "quem tem amigo tem tudo",
+    "inicio_letra": "laiala laiala quem tem um amigo tem tudo",
+
+  },
+  {
+    "cantor": "pedro sampaio  mc gw  mc taliba  mc debby",
+    "codigo": 17939,
+    "musica": "sequencia striptease",
+    "inicio_letra": "oi vem se divertir mulher sensualiza ai gostosa",
+
+  },
+  {
+    "cantor": "rita lee",
+    "codigo": 17940,
+    "musica": "voando nel blu dipintu di blu",
+    "inicio_letra": "um sonho assim tao legal nao devia acabar",
+
+  },
+  {
+    "cantor": "lady gaga",
+    "codigo": 20711,
+    "musica": "abracadabra",
+    "inicio_letra": "abracadabra abracadabra pay the toll",
+
+  },
+  {
+    "cantor": "dj ross  double you",
+    "codigo": 20712,
+    "musica": "beat goes on",
+    "inicio_letra": "thats why we move in the club",
+
+  },
+  {
+    "cantor": "kansas",
+    "codigo": 20713,
+    "musica": "carry on wayward son",
+    "inicio_letra": "carry on my wayward son",
+
+  },
+  {
+    "cantor": "janlen ngonda",
+    "codigo": 20714,
+    "musica": "if you dont want my love",
+    "inicio_letra": "in this night a starry sky",
+
+  },
+  {
+    "cantor": "spinners the",
+    "codigo": 20715,
+    "musica": "ill be around",
+    "inicio_letra": "this is our fork in the road",
+
+  },
+  {
+    "cantor": "santana  michelle branch  the wreckers",
+    "codigo": 20716,
+    "musica": "im feeling you",
+    "inicio_letra": "sometimes i imagine the world without you",
+
+  },
+  {
+    "cantor": "billie eilish",
+    "codigo": 20717,
+    "musica": "lunch",
+    "inicio_letra": "i could eat that girl for lunch",
+
+  },
+  {
+    "cantor": "daryl hall and john oates",
+    "codigo": 20718,
+    "musica": "one on one",
+    "inicio_letra": "im tired of playing on the team",
+
+  },
+  {
+    "cantor": "alex warren",
+    "codigo": 20719,
+    "musica": "ordinary",
+    "inicio_letra": "they say the holy waters watered down",
+
+  },
+  {
+    "cantor": "taylor dayne",
+    "codigo": 20720,
+    "musica": "tell it to my heart",
+    "inicio_letra": "i feel the night explode",
+
+  },
+  {
+    "cantor": "baroes da pisadinha",
+    "codigo": 35000,
+    "musica": "ta rocheda",
+    "inicio_letra": "entrei na rua dela com meu carro",
+
+  },
+  {
+    "cantor": "baroes da pisadinha",
+    "codigo": 35001,
+    "musica": "recairei",
+    "inicio_letra": "recairei",
+
+  },
+  {
+    "cantor": "solange almeida",
+    "codigo": 35002,
+    "musica": "so da tu",
+    "inicio_letra": "esse seu discurso",
+
+  },
+  {
+    "cantor": "deivinho novaes",
+    "codigo": 35003,
+    "musica": "como a culpa e minha oi nego",
+    "inicio_letra": "pensando bem voces se merecem",
+
+  },
+  {
+    "cantor": "wesley safadao e leo santana",
+    "codigo": 35004,
+    "musica": "psiquiatra do bumbum",
+    "inicio_letra": "vamos resolver esse problema juntos?",
+
+  },
+  {
+    "cantor": "xand aviao",
+    "codigo": 35005,
+    "musica": "novinha pode pa",
+    "inicio_letra": "relaxa voce ta na minha e eu tambem te quero",
+
+  },
+  {
+    "cantor": "jonas esticado",
+    "codigo": 35006,
+    "musica": "jogo do amor",
+    "inicio_letra": "olha aonde eu vim parar",
+
+  },
+  {
+    "cantor": "deivinho novaes",
+    "codigo": 35007,
+    "musica": "desculpa",
+    "inicio_letra": "desculpa nao e minha culpa",
+
+  },
+  {
+    "cantor": "saia rodada",
+    "codigo": 35008,
+    "musica": "nunca vai ser eu",
+    "inicio_letra": "seu olhar nao nega quando a gente se encontra",
+
+  },
+  {
+    "cantor": "xand aviao",
+    "codigo": 35009,
+    "musica": "forma discreta",
+    "inicio_letra": "em frente ao espelho eu ensaiei",
+
+  },
+  {
+    "cantor": "xand aviao",
+    "codigo": 35010,
+    "musica": "doze horas 12h",
+    "inicio_letra": "em frente ao espelho eu ensaiei",
+
+  },
+  {
+    "cantor": "aldair playboy",
+    "codigo": 35011,
+    "musica": "ainda te amo",
+    "inicio_letra": "o nosso beijo ja deixou de encaixar faz tempo",
+
+  },
+  {
+    "cantor": "mano walter e maiara e maraisa",
+    "codigo": 35012,
+    "musica": "que amizade e essa",
+    "inicio_letra": "ta ficando incontrolavel nao segurar sua mao",
+
+  },
+  {
+    "cantor": "jonas esticado e felipe araujo",
+    "codigo": 35013,
+    "musica": "saudade boa",
+    "inicio_letra": "voce foi o meu primeiro amor de anos atras",
+
+  },
+  {
+    "cantor": "xand aviao",
+    "codigo": 35014,
+    "musica": "casal raiz",
+    "inicio_letra": "o nome dessa musica e casal raiz",
+
+  },
+  {
+    "cantor": "tierry",
+    "codigo": 35015,
+    "musica": "prego e martelo",
+    "inicio_letra": "ela quer voltar me pediu perdao",
+
+  },
+  {
+    "cantor": "tierry",
+    "codigo": 35016,
+    "musica": "hb20",
+    "inicio_letra": "com seu hb20 2015 completao com ar condicionado",
+
+  },
+  {
+    "cantor": "wesley safadao",
+    "codigo": 35017,
+    "musica": "nao valeu",
+    "inicio_letra": "nao valeu nao valeutem que falar que nao me ama",
+
+  },
+  {
+    "cantor": "ze vaqueiro",
+    "codigo": 35018,
+    "musica": "tenho medo",
+    "inicio_letra": "tenho medo de alguem me machucar",
+
+  },
+  {
+    "cantor": "tierry",
+    "codigo": 35019,
+    "musica": "eu to com uma puta",
+    "inicio_letra": "ta revirando as minhas coisas",
+
+  },
+  {
+    "cantor": "conde do forro",
+    "codigo": 35020,
+    "musica": "romance desapegado",
+    "inicio_letra": "e muito casal fingindo que se ama",
+
+  },
+  {
+    "cantor": "pixote",
+    "codigo": 35021,
+    "musica": "nem de graca",
+    "inicio_letra": "e que nao sobrou espaco pra outro alguem",
+
+  },
+  {
+    "cantor": "mc niack",
+    "codigo": 35022,
+    "musica": "oh juliana",
+    "inicio_letra": "oh juliana o que tu quer de mim?",
+
+  },
+  {
+    "cantor": "iza",
+    "codigo": 35023,
+    "musica": "dona de mim",
+    "inicio_letra": "me perdi pelo caminho mas nao paro nao",
+
+  },
+  {
+    "cantor": "ze vaqueiro",
+    "codigo": 35024,
+    "musica": "leticia",
+    "inicio_letra": "leticia leticia pra onde voce vai com",
+
+  },
+  {
+    "cantor": "petter ferraz e menor nico",
+    "codigo": 35025,
+    "musica": "amor ou o litrao",
+    "inicio_letra": "eu achei que eu bebia bem",
+
+  },
+  {
+    "cantor": "giulia be",
+    "codigo": 35026,
+    "musica": "menina solta",
+    "inicio_letra": "ela era la da barra ele de ipanema",
+
+  },
+  {
+    "cantor": "baroes da pisadinha",
+    "codigo": 35027,
+    "musica": "basta voceme ligar",
+    "inicio_letra": "so basta voce me ligar ah",
+
+  },
+  {
+    "cantor": "diego e victor hugo part rai saia rodada",
+    "codigo": 35028,
+    "musica": "pisadinha",
+    "inicio_letra": "to parado aqui na br num boteco",
+
+  },
+  {
+    "cantor": "flay e jerry smith",
+    "codigo": 35029,
+    "musica": "saudades ne minha filha",
+    "inicio_letra": "trocar o pijama por shortinho e ficar",
+
+  },
+  {
+    "cantor": "mc rayban",
+    "codigo": 35030,
+    "musica": "bacteria filha da puta",
+    "inicio_letra": "bacteria filha da puta microbio do caralho",
+
+  },
+  {
+    "cantor": "jonas esticado",
+    "codigo": 35031,
+    "musica": "investe em mim",
+    "inicio_letra": "sei que voce nao ama mais ninguem",
+
+  },
+  {
+    "cantor": "tierry",
+    "codigo": 35032,
+    "musica": "rita",
+    "inicio_letra": "sua ausencia ta fazendo mais estrago",
+
+  },
+  {
+    "cantor": "gusttavo lima",
+    "codigo": 35033,
+    "musica": "cafe e amor",
+    "inicio_letra": "nao vou te obrigar a ficar aqui",
+
+  },
+  {
+    "cantor": "baroes da pisadinha e xand aviao",
+    "codigo": 35034,
+    "musica": "renatinha",
+    "inicio_letra": "saudade doi saudade doi",
+
+  },
+  {
+    "cantor": "ze neto e cristiano",
+    "codigo": 35035,
+    "musica": "alo ambev",
+    "inicio_letra": "traz uma gelada pra mim por favor",
+
+  },
+  {
+    "cantor": "ze felipe",
+    "codigo": 35036,
+    "musica": "jose ou maria",
+    "inicio_letra": "o exame ja confirmou e marcou dois tracinhos",
+
+  },
+  {
+    "cantor": "ze vaqueiro",
+    "codigo": 35037,
+    "musica": "meia noite",
+    "inicio_letra": "ce vai deixar a porta aberta para o nosso encontro",
+
+  },
+  {
+    "cantor": "marilia mendonca",
+    "codigo": 35038,
+    "musica": "depre",
+    "inicio_letra": "ta errado hoje deveria ser feriado",
+
+  },
+  {
+    "cantor": "simone e simaria",
+    "codigo": 35039,
+    "musica": "foi pa pum",
+    "inicio_letra": "ta errado hoje deveria ser feriado",
+
+  }
 ]
