@@ -39,7 +39,7 @@ h1 {
   background: rgba(255,255,255,0.16);
   color: #fff;
   backdrop-filter: blur(10px);
-  font-size: 16px;
+  font-size: 18px;
 }
 
 #search::placeholder {
@@ -144,7 +144,7 @@ h1 {
 }
 
 .item-meta {
-  font-size: 18px;   /* Aumenta a fonte */
+  font-size: 16px;   /* Aumenta a fonte */
   font-weight: 600;    /* (opcional) deixa mais forte */
   margin-top: 4px;     /* (opcional) dá um respiro visual */
 }
