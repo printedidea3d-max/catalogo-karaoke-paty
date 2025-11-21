@@ -13,7 +13,7 @@
   <h1>🎤 Catálogo de Karaokê da Paty</h1>
 
   <div class="search-box">
-    <input id="search" placeholder="Buscar música, cantor ou código...">
+    <input id="search" placeholder="Buscar música, cantor, código ou letra...">
     <button id="search-btn">🔍</button>
   </div>
 
@@ -24,7 +24,7 @@
 
 <script>
 if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register("service-worker.js");
+  navigator.serviceWorker.register("service-worker.js").catch(console.error);
 }
 </script>
 
