@@ -37,11 +37,9 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const request = event.request;
 
-  // Sempre tentar a rede primeiro
   event.respondWith(
     fetch(request)
       .then((response) => {
-        // Atualiza o cache com a versão mais recente
         const clone = response.clone();
         caches.open(CACHE_NAME).then((cache) => {
           cache.put(request, clone);
@@ -49,7 +47,6 @@ self.addEventListener("fetch", (event) => {
         return response;
       })
       .catch(() => {
-        // Se offline, tenta buscar no cache
         return caches.match(request);
       })
   );
