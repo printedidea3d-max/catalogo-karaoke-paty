@@ -8,7 +8,8 @@ const FILES_TO_CACHE = [
   "./manifest.json",
   "./whatsapp.svg",
   "./icon-192.png",
-  "./icon-512.png"
+  "./icon-512.png",
+  "./search-worker.js" //busca otimizada
 ];
 
 // Instala e faz pré-cache dos arquivos essenciais

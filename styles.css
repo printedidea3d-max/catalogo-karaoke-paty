@@ -148,3 +148,17 @@ h1 {
   font-weight: 600;    /* (opcional) deixa mais forte */
   margin-top: 4px;     /* (opcional) dá um respiro visual */
 }
+.loading {
+  padding: 20px;
+  text-align: center;
+  font-size: 1.2rem;
+  opacity: 0.7;
+}
+
+.mais-resultados {
+  padding: 10px;
+  text-align: center;
+  font-size: 0.9rem;
+  opacity: 0.6;
+}
+
