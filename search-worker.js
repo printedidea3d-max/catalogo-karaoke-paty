@@ -1,46 +1,46 @@
 // search-worker.js
 let songs = [];
 
-// Recebe dados e comandos do app.js
+function normalize(str) {
+  return String(str)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
 self.onmessage = (event) => {
   const { type, data, query } = event.data;
 
-  // Inicialização do worker
   if (type === "init") {
-    // Monta índice de texto para busca rápida
     songs = data.map((item) => {
       const index =
-        (item.musica || "") +
+        normalize(item.musica) +
         " " +
-        (item.cantor || "") +
+        normalize(item.cantor) +
         " " +
-        String(item.codigo || "") +
+        normalize(item.codigo) +
         " " +
-        (item.inicio_letra || "");
+        normalize(item.inicio_letra);
 
       return {
         ...item,
-        _index: index.toLowerCase(),
+        _index: index
       };
     });
 
-    // Informa ao app.js que o worker está pronto
     self.postMessage({ type: "ready" });
   }
 
-  // Pesquisa
   if (type === "search") {
-    const q = String(query || "").toLowerCase().trim();
+    const q = normalize(query.trim());
 
     if (!q) {
-      // Sem texto → devolve tudo
       self.postMessage({ type: "results", items: songs });
       return;
     }
 
     const filtrados = songs.filter((song) => song._index.includes(q));
 
-    // Envia de volta apenas os itens
     self.postMessage({ type: "results", items: filtrados });
   }
 };

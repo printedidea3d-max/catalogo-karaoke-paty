@@ -8,6 +8,14 @@ const list = document.getElementById("list");
 const search = document.getElementById("search");
 const searchBtn = document.getElementById("search-btn");
 
+//normaliza acentos
+function normalize(str) {
+  return String(str)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
+}
+
 // Mostrar LOADING
 function mostrarLoading() {
   list.innerHTML = `<div class="loading">Carregando...</div>`;
